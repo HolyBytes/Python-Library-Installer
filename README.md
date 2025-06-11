@@ -110,13 +110,13 @@
 
 **Metode 1: Git Clone**
 ```bash
-git clone https://github.com/HolyBytes/python-library-installer.git
+git clone https://github.com/HolyBytes/Python-Library-Installer.git
 cd python-library-installer
 ```
 
 **Metode 2: Download Langsung**
 ```bash
-wget https://raw.githubusercontent.com/HolyBytes/python-library-installer/main/library_installer.py
+wget https://raw.githubusercontent.com/HolyBytes/Python-Library-Installer/main/library_installer.py
 ```
 
 **Metode 3: Manual Download**
